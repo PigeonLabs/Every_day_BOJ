@@ -1,0 +1,1 @@
+import math;print(math.comb(*[int(x)-1 for x in input().split()]))
