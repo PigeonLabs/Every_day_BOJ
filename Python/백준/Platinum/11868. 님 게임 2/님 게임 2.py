@@ -1,0 +1,1 @@
+_,s=open(0);print(eval(s.replace(*' ^'))and'koosaga'or'cubelover')
